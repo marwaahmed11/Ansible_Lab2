@@ -11,6 +11,8 @@ ansible-playbook playbook.yaml -i inventory.txt
 4- Install nexus 
 ![install nexus](https://user-images.githubusercontent.com/63955669/219491778-ea99363e-e10b-431d-9327-68279e198537.png)
 5- Load balancer and target group 
+![load](https://user-images.githubusercontent.com/63955669/219501272-4ad32ad5-eaa2-4c41-b582-6eab8d9a63eb.png)
+
 ![target group](https://user-images.githubusercontent.com/63955669/219491835-367d2f02-bafa-4532-8c74-efc366b7bca2.png)
 6- Nexus from browser 
 ![nexus1](https://user-images.githubusercontent.com/63955669/219491926-8250ab4b-dcd5-4c68-b622-db44ba4c132f.png)
