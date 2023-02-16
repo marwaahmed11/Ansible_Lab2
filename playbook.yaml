@@ -1,0 +1,19 @@
+- name: install sonarqube & nexus  
+  hosts: all
+  become: true
+  tasks:
+    - name: verify the jump host
+      ping:
+
+
+- name: install nexus  
+  hosts: nexus
+  become: true
+  roles: 
+    - roles/nexus
+
+
+
+
+
+
